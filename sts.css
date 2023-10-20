@@ -1,0 +1,63 @@
+/* Style for the search results section */
+#resultadoPesquisa {
+    margin: 20px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #e3e3e3;
+    border-radius: 5px;
+    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
+}
+
+/* Style for the title of the search results */
+#resultadoPesquisa h2 {
+    font-size: 24px;
+    color: #333;
+    margin-top: 0;
+}
+
+/* Style for the list of search results */
+#resultadoPesquisa ul {
+    list-style: none;
+    padding: 0;
+}
+
+/* Style for each item in the search results list */
+#resultadoPesquisa li {
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
+}
+
+/* Style for the title of each research material */
+#resultadoPesquisa h1 {
+    font-size: 24px;
+    color: #333;
+}
+
+/* Style for the description of each research material */
+#resultadoPesquisa h2 {
+    font-size: 16px;
+    color: #777;
+}
+
+/* Style for the category of each research material */
+#resultadoPesquisa li {
+    font-size: 18px;
+    color: #555;
+}
+
+/* Style for the content of each research material */
+#resultadoPesquisa p {
+    font-size: 18px;
+    color: #333;
+}
+
+/* Style for the message when no results are found */
+#resultadoPesquisa p.no-results {
+    font-size: 18px;
+    color: #f00;
+}
+
